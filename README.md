@@ -8,3 +8,5 @@
 指数分布を考えた
 ### MCMC法: mcmc_Gibbs.R
 未完成
+https://research.miidas.jp/2019/12/mcmc%E5%85%A5%E9%96%80-gibbs-sampling/
+見てみる
